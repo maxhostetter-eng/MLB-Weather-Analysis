@@ -27,6 +27,12 @@ Temperature's effect concentrates in **home runs** — the one outcome that depe
 
 ---
 
+## Interactive Widgets
+
+The notebook includes an interactive over/under tool that estimates expected run scoring based on temperature, wind, and ballpark. Widgets require a live Python kernel — they will not display on GitHub.
+
+---
+
 ## Data Source
 
 MLB Stats API — Official MLB data, 2021–2025 Regular Seasons
