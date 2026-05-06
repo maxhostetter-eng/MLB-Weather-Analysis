@@ -42,3 +42,7 @@ MLB Stats API — Official MLB data, 2021–2025 Regular Seasons
 ## Built With
 
 Python — numpy, pandas, statsmodels, matplotlib, seaborn, scipy, ipywidgets, requests, tqdm
+
+## Here's a chart from this project showing individual contributions to total runs in an MLB game
+<img width="1868" height="990" alt="image" src="https://github.com/user-attachments/assets/5b892dec-202c-4583-b9d1-2377fa4929a8" />
+
